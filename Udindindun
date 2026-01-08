@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Biografi</title>
 
-  <!-- Google Fonts -->
+  
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet" />
 
   <style>
@@ -74,7 +74,7 @@
       margin-bottom: 8px;
     }
 
-    /* Kotak kecil untuk link */
+  
     .box-compact {
       background-color: #fff;
       padding: 20px;
@@ -87,7 +87,7 @@
       animation: fadeInUp 1.5s ease-out both;
     }
 
-    /* Tombol oval */
+   
     .oval-link {
       display: inline-block;
       padding: 10px 25px;
@@ -103,7 +103,7 @@
       background-color: #7ac18c;
     }
 
-    /* Animasi */
+    
     @keyframes fadeIn {
       from { opacity: 0; }
       to { opacity: 1; }
@@ -118,13 +118,13 @@
 <body>
 
   <div class="container">
-    <!-- Foto -->
+  
     <img src="ud.jpg" alt="Foto Profil" class="profile-photo" />
 
-    <!-- Nama -->
+   
     <div class="name">Muhammad Rafi Udin</div>
 
-    <!-- Biodata -->
+   
     <div class="box">
       <h2>🧍 Tentang Saya</h2>
       <p>
@@ -132,7 +132,7 @@
       </p>
     </div>
 
-    <!-- Pencapaian -->
+    
     <div class="box">
       <h2>🏆 Pencapaian Unik</h2>
       <ul>
@@ -142,7 +142,6 @@
       </ul>
     </div>
 
-    <!-- Fakta Unik -->
     <div class="box">
       <h2>✨ Fakta Unik</h2>
       <ul>
@@ -153,7 +152,7 @@
       </ul>
     </div>
 
-    <!-- Link Sosial Media -->
+    
     <div class="box-compact">
       <a href="https://www.instagram.com/udindindinduun_?igsh=MTN1MjF1YmJ6a21iNg==" class="oval-link" target="_blank">
         📱Instagram Saya
